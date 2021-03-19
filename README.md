@@ -192,4 +192,8 @@ Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or
 7. **Main html**
 Homepage will look like: [https://github.com/XueWang2019/artist_booking_web/blob/master/Finish_code/main.PNG]
 
+8. **Possible further improvement**
+* Add authenrization and authentification and roles for endpoints.
+* Deploy it to Heroku.
+
 
