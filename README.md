@@ -189,4 +189,7 @@ python3 app.py or (flask run)
 6. **Verify on the Browser**<br>
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000) 
 
+7. **Main html**
+Homepage will look like: [https://github.com/XueWang2019/artist_booking_web/blob/master/Finish_code/main.PNG]
+
 
